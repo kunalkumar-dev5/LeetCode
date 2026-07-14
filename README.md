@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0058-length-of-last-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

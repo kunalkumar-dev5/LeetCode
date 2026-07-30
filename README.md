@@ -50,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0148-sort-list) |
 ## Array
 |  |
 | ------- |
@@ -63,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -77,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0002-add-two-numbers) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

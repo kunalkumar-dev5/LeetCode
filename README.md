@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0217-contains-duplicate) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0001-two-sum) |
 | [0057-insert-interval](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0169-majority-element) |

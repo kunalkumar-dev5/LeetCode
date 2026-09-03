@@ -1,23 +1,23 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if(numRows == 1 || numRows >= s.length()){
+        if(numRows ==1 || numRows >= (int)s.size()){
             return s;
         }
-         vector<string> rows(numRows);
-        int currentRow = 0;
+
+        vector<string> rows(numRows);
+        int curRow =0;
         bool goingDown = false;
 
-        for(char c : s){
-            rows[currentRow] +=c;
-
-            if(currentRow == 0|| currentRow == numRows-1){
+        for(char c: s){
+            rows[curRow] +=c;
+            if(curRow ==0 || curRow == numRows -1){
                 goingDown = !goingDown;
             }
-            currentRow += goingDown ? 1 : -1;
-
+            curRow += goingDown ? 1: -1;
         }
-         string result;
+
+        string result;
         for(const string& row : rows){
             result += row;
         }

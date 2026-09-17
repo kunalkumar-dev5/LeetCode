@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0231-power-of-two) |
 ## Merge Sort
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

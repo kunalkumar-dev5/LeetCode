@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0069-sqrtx) |
 ## String
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0036-valid-sudoku) |
 | [0057-insert-interval](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0118-pascals-triangle) |

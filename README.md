@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0039-combination-sum) |
+| [0054-spiral-matrix](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0169-majority-element) |
@@ -189,4 +191,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

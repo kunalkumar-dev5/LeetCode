@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0118-pascals-triangle) |
 ## Memoization
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0169-majority-element) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0055-jump-game) |
 ## Tree
 |  |
 | ------- |

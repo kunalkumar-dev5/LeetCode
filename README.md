@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0168-excel-sheet-column-title) |
 ## Dynamic Programming

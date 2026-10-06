@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0118-pascals-triangle) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Hash Table
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0148-sort-list) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0057-insert-interval) |
@@ -198,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0054-spiral-matrix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

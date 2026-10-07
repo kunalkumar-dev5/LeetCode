@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0217-contains-duplicate) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |

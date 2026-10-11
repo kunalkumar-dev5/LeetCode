@@ -1,28 +1,26 @@
 class Solution {
 public:
     string longestPalindrome(string s) {
-        if(s.empty()) return "";
+        int n = s.size();
         int start = 0, maxLen = 1;
 
-        for(int i= 0; i<(int)s.size(); i++){
-            int len1 = expandAroundCenter(s, i,i);
-            int len2 = expandAroundCenter(s,i,i+1);
-
-            int len = max(len1, len2);
-            if(len>maxLen){
-                maxLen = len;
-                start = i -(len-1)/2;
+        auto expand = [&](int l, int r){
+            if(r>= n || s[l] != s[r]) return;
+            while(l>0 && r < n-1 && s[l-1] == s[r+1]){
+                l--;
+                r++;
             }
+            int len = r-l +1;
+            if(len > maxLen){
+                maxLen = len;
+                start = l;
+            }
+        };
+        for(int i =0; i< n; i++){
+            expand(i,i);
+            expand(i, i+1);
         }
         return s.substr(start, maxLen);
     }
-    private:
-    int expandAroundCenter(const string& s, int left,int right){
-        while(left>=0 && right< (int )s.size() && s[left] == s[right]){
-            left--;
-            right++;
 
-        }
-        return right - left -1;
-    }
 };

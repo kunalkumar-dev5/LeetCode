@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0168-excel-sheet-column-title) |
 ## Dynamic Programming
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0057-insert-interval) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0217-contains-duplicate) |

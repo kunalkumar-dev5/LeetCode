@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0068-text-justification) |
 | [0168-excel-sheet-column-title](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0168-excel-sheet-column-title) |
 ## Dynamic Programming
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0057-insert-interval) |
+| [0068-text-justification](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |

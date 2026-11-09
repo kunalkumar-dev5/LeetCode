@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0068-text-justification) |
 | [0168-excel-sheet-column-title](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0344-reverse-string](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0148-sort-list) |
+| [0344-reverse-string](https://github.com/kunalkumar-dev5/LeetCode/tree/master/0344-reverse-string) |
 ## Array
 |  |
 | ------- |
